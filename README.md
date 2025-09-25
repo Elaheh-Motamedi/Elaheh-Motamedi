@@ -2,12 +2,12 @@
 PhD candidate in Electrical & Computer Engineering focused on computer vision, multimodal learning (video/audio/WiFi), and robotics. I design robust Transformer‑based systems and deploy models for real‑time applications using CUDA/ONNX/TensorRT. I value clean, reproducible research and practical impact.
 
 # About me
-
-- 5+ years building and shipping ML/CV models on structured & unstructured data
-
-- Strengths: multimodal fusion, event cameras, robustness (noise/missing modalities)
-
-- Comfortable across the stack: data pipelines → modeling → evaluation → deployment
+- 5+ years building and shipping ML/CV models on structured & unstructured data, including real-time deployment on edge devices
+- **Published researcher** in top-tier venues including Nature Scientific Data and IEEE conferences
+- **Competition winner**: 1st place at ACC 2023 self-driving car competition with custom YOLO system
+- **Teaching experience**: Mentored 240+ students in FPGA and digital design as Graduate TA
+- **Specialized in**: multimodal fusion, WiFi sensing, adversarial robustness, and model optimization for resource-constrained environments
+- **Full-stack ML**: data pipelines → modeling → evaluation → deployment (achieved 2× speedup on Intel NCS2, 10× on NVIDIA Jetson)
 
 # Education
 
@@ -48,6 +48,11 @@ Event‑camera pipelines — Prophesee EVK4: voxel‑grid encoding → CNN/ViT; 
 RoboMNIST — Dataset and training code for video+audio+WiFi with logit‑level fusion and early stopping.
 
 Links to code/papers coming soon. Ping me if you need early access. 
+# Featured Projects
+- **[LE-MvDA](https://github.com/Elaheh-Motamedi/LE-MvDA)** - Lightweight interpretable multi-view dimensionality reduction algorithm outperforming deep learning models
+- **[QuanserCompetition](https://github.com/Elaheh-Motamedi/QuanserCompetition)** - Enhanced YOLO object detection system (92.7% accuracy, 🏆 1st place ACC 2023)
+- **RoboFiSense Dataset** - WiFi-based robotic activity recognition framework achieving 92.5% accuracy
+- **TriSenseFormer** - Multimodal Transformer (WiFi+video+audio) with 98.3% accuracy and robust performance under data corruption
 **Elaheh-Motamedi/Elaheh-Motamedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
