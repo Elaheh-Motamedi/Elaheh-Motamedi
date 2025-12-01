@@ -31,7 +31,7 @@ PhD in Electrical and Computer Engineering at Northeastern University, Boston (E
 
 
 - **Email:**  [motamedi.e@northeastern.edu](mailto:motamedi.e@northeastern.edu) · [elahe.motamedi@gmail.com](mailto:elahe.motamedi@gmail.com)
-- **LinkedIn:** [ella-motamedi](https://www.linkedin.com/in/ella-motamedi)
+- **LinkedIn:** [Ella-motamedi](https://www.linkedin.com/in/ella-motamedi)
 - **Google Scholar:** [Elaheh Motamedi](https://scholar.google.com/citations?user=bBWGrGQAAAAJ)
 
 
