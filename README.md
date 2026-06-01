@@ -1,4 +1,4 @@
-# Hi, I’m Elaheh Motamedi 👋
+# Hi, I’m Elaheh (Ella) Motamedi 👋
 PhD candidate in Electrical & Computer Engineering focused on computer vision, multimodal learning (video/audio/WiFi), and robotics. I design robust Transformer‑based systems and deploy models for real‑time applications using CUDA/ONNX/TensorRT. I value clean, reproducible research and practical impact.
 
 # About me
